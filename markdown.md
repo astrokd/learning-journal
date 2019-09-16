@@ -18,7 +18,7 @@
 		- *Clear* Clears terminal view
 
 
-## Text Editors
+## Text Editors (aka Code Editors)
   Text Editors are tools that help you make and edit code.  Using a Text Editor over other text editing tools can help improve your coding experience.  Text Editors do this by using the follow technicques.
   - Code Completion
     - As you start typing the editor gives you a list of possible commands for the languages you are coding in.  This allows you to code faster and make fewer mistakes.
