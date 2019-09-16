@@ -2,20 +2,20 @@
 
 ## Notes from Dev Tools discussion
 
--Dev Tools
-	-Text editors. 
-		-Word Processors
-	-Code Editors.
-		-GitHub Atom
-		-VSCode Visual Studio used by CF
-		-NotePad++
-	-Terminal
-		-ls list files and folders in current directory
-		-cd. Change Directory
-		-touch filename.*.   creates file 
-		-mkdir foldername
-		-pwd print working directory
-		-Clear. Clears terminal view
+- Dev Tools
+	- Text editors. 
+		- Word Processors
+	- Code Editors.
+		- GitHub Atom
+		- VSCode Visual Studio used by CF
+		- NotePad++
+	- Terminal
+		- *ls* list files and folders in current directory
+		- *cd* Change Directory
+		- *touch filename*   creates file 
+		- *mkdir foldername*
+		- *pwd* print working directory
+		- *Clear* Clears terminal view
 
 
 ## Text Editors
