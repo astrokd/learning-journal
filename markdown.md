@@ -30,3 +30,7 @@
     - Changes color of you code based on the your code language syntax. This helps you read and edit your code by making the text more legable
   - Application Themes
     - The editor has different color and style themes that make using the editor easier to use.
+
+* star1
+* star2
+* star3
