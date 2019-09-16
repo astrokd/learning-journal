@@ -16,6 +16,7 @@
 		- *mkdir foldername*
 		- *pwd* print working directory
 		- *Clear* Clears terminal view
+		- arrow up and down lets you choose different commands
 
 
 ## Text Editors (aka Code Editors)
