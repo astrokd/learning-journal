@@ -11,6 +11,8 @@ I will add my notes from class here and write a paragraph on growth mindset.
 
 #### Growth Mindset
 
+* https://www.atlassian.com/blog/inside-atlassian/growth-mindset *
+
 > The growth mindset can open pathways to more creativity and possibility, and enable the setting of higher goals and more achievement.
 
 Growth Mindset is the idea that learning is a growth process where *mistakes, errors, and obsticales* are all part of the process.
