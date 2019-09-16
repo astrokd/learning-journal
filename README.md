@@ -2,6 +2,8 @@
 
 Hi, I was previously a **IT Technical Support professional**, I've been in Technical Support and Software Testing for a software company, and I went to engineering school before that.  I've been interested in learning more about coding for some time and have been learning on my own using TreeHouse.com, Lynda.com, and others.  I recently decided that I needed to step-up my training experience and be in group learning environment.
 
+https://astrokd.github.io/learning-journal/
+
 I will add my notes from class here and write a paragraph on growth mindset.
 
 ## TODO list
