@@ -23,3 +23,6 @@ And then
 
 Check File Status with command
     ```git status```
+
+Staging a new file with `git add filename`
+
