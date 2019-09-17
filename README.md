@@ -30,7 +30,7 @@ A fixed mindset would be the opposite of that where you finding difficulty or ma
 2. When it gets hard persist
 3. Don't ignore criticism
 
-'learn to code'
+'<p>learn to code</p>'
 
 
 ![Pano image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/An_Teallach_panorama.jpg/2880px-An_Teallach_panorama.jpg)
