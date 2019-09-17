@@ -1,7 +1,7 @@
 # HTML demo for 102d5 Read 04
 
 *Duckett chapter 18*
-## Process and Design pg 453
+## Read Process and Design pg 453
 Ask who is the site for, build a target audience
 
 Consider who will visit and determine what their needs and goals when viewing the site are 
@@ -26,3 +26,13 @@ Wireframes make design easier by letting think about appears on what page before
 - Similarity
 
 ### Design Nav
+
+*Duckett chapter 1*
+## Skim Structure
+
+*Duckett chapter 17*
+## Read HTML5 Layout
+
+*Duckett chapter 8*
+## Extra Markup
+
