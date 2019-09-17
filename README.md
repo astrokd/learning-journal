@@ -9,8 +9,8 @@ I will add my notes from class here and write a paragraph on growth mindset.
 
 ## TODO list
 
-- learn the things 
-- publish to the web 
++ learn the things 
++ publish to the web 
 
 #### Growth Mindset
 
