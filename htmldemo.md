@@ -18,8 +18,11 @@ Wireframes make design easier by letting think about appears on what page before
 - Prioritizing
 - Organizing
 
-pg 466
-- Visual Hierarchy
+- Visual Hierarchy pg 467
+    - Size
+    - Color
+    - Style
 - Group
 - Similarity
 
+### Design Nav

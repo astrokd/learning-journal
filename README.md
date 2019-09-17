@@ -33,3 +33,9 @@ A fixed mindset would be the opposite of that where you finding difficulty or ma
 ## Some other stuff
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/An_Teallach_panorama.jpg/2880px-An_Teallach_panorama.jpg)
+
+## My Journals
+[Readme learning journal](https://astrokd.github.io/learning-journal/)
+[https://astrokd.github.io/learning-journal/markdown](https://astrokd.github.io/learning-journal/markdown)
+[https://astrokd.github.io/learning-journal/Git_GitHub](https://astrokd.github.io/learning-journal/Git_GitHub)
+[https://astrokd.github.io/learning-journal/htmldemo](https://astrokd.github.io/learning-journal/htmldemo)
