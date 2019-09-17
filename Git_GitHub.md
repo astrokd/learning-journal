@@ -10,16 +10,16 @@ A Git is a snapshot in time of files and code.  Git tracks changes of files and 
 ## Setting up a Git Repo
 
 To setup a Git Repository you must first use the git command
-    'git init'
+    `git init`
 
 This creates a git in the *current working directory*, several folders that help git know this is a folder are placed inside.
 
 Then you start tracking by performing your initial commit with the command
-    'git add'
+    `git add`
 And then
-    'git commit -m "a message"'
+    `git commit -m "a message"`
 
 ## Workflow
 
 Check File Status with command
-    'git status'
+    `git status`
