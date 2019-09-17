@@ -1,4 +1,4 @@
-#101d5 Git and GitHub learning journal
+# 101d5 Git and GitHub learning journal
 
 [Git Intro on Udemy](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 * Ready only up through the section called *seeing your remote*
@@ -24,5 +24,20 @@ And then
 Check File Status with command
     ```git status```
 
-Staging a new file with `git add filename`
+#### Staging a new file with 
+`git add filename`
+
+#### Committing a file
+`git commit -m "update message"`
+
+#### Pushing Changes
+`git push origin master`
+
+## Remote Repositories
+
+Seeing your Remotes
+
+`git remote -v`
+
+
 
