@@ -16,6 +16,7 @@ I will add my notes from class here and write a paragraph on growth mindset.
 
 https://www.atlassian.com/blog/inside-atlassian/growth-mindset
 
+
 > The growth mindset can open pathways to more creativity and possibility, and enable the setting of higher goals and more achievement.
 
 Growth Mindset is the idea that learning is a growth process where *mistakes, errors, and obsticales* are all part of the process.
@@ -28,6 +29,8 @@ A fixed mindset would be the opposite of that where you finding difficulty or ma
 1. Learn from others and celabrate their success
 2. When it gets hard persist
 3. Don't ignore criticism
+
+'learn to code'
 
 
 ![Pano image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/An_Teallach_panorama.jpg/2880px-An_Teallach_panorama.jpg)
