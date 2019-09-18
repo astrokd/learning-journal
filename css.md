@@ -53,3 +53,5 @@ rgba just like rgb color spec but has 4 value for opacity
 Spec color by Hue, Saturation, Lightness HSL or hsla
 Pg 262
 >It is important to insure that there is enough contrast between any text and the background color (otherwise people will not be able to read your content)
+
+[www.htmlandcssbook.com](www.htmlandcssbook.com)
