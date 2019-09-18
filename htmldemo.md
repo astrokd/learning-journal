@@ -67,6 +67,9 @@ web page authors used to use the `<div>` element to divide up a page and then cl
  - figure
  - div this element is necessary and you should not be using the new other then their stated purpose
 
+ #### You can now link around block level elements pg 441
+    the a element `<a>` can be placed around
+
 
 *Duckett chapter 8*
 ## Extra Markup
