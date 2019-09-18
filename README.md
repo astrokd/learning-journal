@@ -13,10 +13,8 @@ I will add my notes from class here and write a paragraph on growth mindset.
 + learn the things 
 + publish to the web 
 
-## Some other stuff
-
 ## My Journals
-1. [Readme learning journal](README.md)
+1. [Readme learning journal root](README.md)
 2. [Growth Mindset journal](growthmindset.md)
 3. [Markdown journal](markdown.md)
 4. [Git and GitHub intro journal](Git_GitHub.md)
