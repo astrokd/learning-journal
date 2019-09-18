@@ -54,7 +54,18 @@ HTML Describes the structure of pages by using elements sometimes with attribute
 
 *Duckett chapter 17*
 ## Read HTML5 Layout pg 428
+web page authors used to use the `<div>` element to divide up a page and then class and/or id attribute to indicate role.  HTML5 has introduced tags for specific roles.
 
+### HTML5 elements
+ - header
+ - nav
+ - article  These can also have individual header and footer elements
+ - aside can be inside an article or not
+ - footer
+ - section
+ - hgroup for grouping h1 through h6
+ - figure
+ - div this element is necessary and you should not be using the new other then their stated purpose
 
 
 *Duckett chapter 8*
