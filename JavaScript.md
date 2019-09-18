@@ -22,3 +22,5 @@ This JS adds text greeting var based on time of day.  The `.getHours()` function
 JS runs where it is found in the HTML
 
 Inspecting the html in the browser will not show the JS or what the js did
+
+[Readme learning journal](README.md)

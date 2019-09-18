@@ -75,3 +75,5 @@ web page authors used to use the `<div>` element to divide up a page and then cl
 ## Extra Markup
 
 For more information and Sample code see [www.htmlandcssbook.com](www.htmlandcssbook.com)
+
+[Readme learning journal](README.md)

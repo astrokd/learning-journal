@@ -39,5 +39,6 @@ Seeing your Remotes
 
 `git remote -v`
 
+[Readme learning journal](README.md)
 
 

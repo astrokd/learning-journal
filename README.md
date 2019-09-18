@@ -1,4 +1,5 @@
 # Kevin Dreyer's codefellows Learning Journal
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/An_Teallach_panorama.jpg/2880px-An_Teallach_panorama.jpg)
 
 Hi, I was previously a **IT Technical Support professional**, I've been in Technical Support and Software Testing for a software company, and I went to engineering school before that.  I've been interested in learning more about coding for some time and have been learning on my own using TreeHouse.com, Lynda.com, and others.  I recently decided that I needed to step-up my training experience and be in group learning environment.
 
@@ -12,30 +13,13 @@ I will add my notes from class here and write a paragraph on growth mindset.
 + learn the things 
 + publish to the web 
 
-#### Growth Mindset
-
-https://www.atlassian.com/blog/inside-atlassian/growth-mindset
-
-
-> The growth mindset can open pathways to more creativity and possibility, and enable the setting of higher goals and more achievement.
-
-Growth Mindset is the idea that learning is a growth process where *mistakes, errors, and obsticales* are all part of the process.
-
-A fixed mindset would be the opposite of that where you finding difficulty or make mistakes and use this experience as a reason to not continue.
-
-
-#### Reminders
-
-1. Learn from others and celabrate their success
-2. When it gets hard persist
-3. Don't ignore criticism
-
 ## Some other stuff
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/An_Teallach_panorama.jpg/2880px-An_Teallach_panorama.jpg)
-
 ## My Journals
-1. [Readme learning journal](https://astrokd.github.io/learning-journal/)
-2. [https://astrokd.github.io/learning-journal/markdown](https://astrokd.github.io/learning-journal/markdown)
-3. [https://astrokd.github.io/learning-journal/Git_GitHub](https://astrokd.github.io/learning-journal/Git_GitHub)
-4. [https://astrokd.github.io/learning-journal/htmldemo](https://astrokd.github.io/learning-journal/htmldemo)
+1. [Readme learning journal](README.md)
+2. [Growth Mindset journal](growthmindset.md)
+3. [Markdown journal](markdown.md)
+4. [Git and GitHub intro journal](Git_GitHub.md)
+5. [html demo journal](htmldemo.md)
+6. [CSS journal](css.md)
+7. [JavaScript journal](JavaScript.md)

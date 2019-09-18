@@ -31,11 +31,4 @@
   - Application Themes
     - The editor has different color and style themes that make using the editor easier to use.
 
-* star1
-* star2
-* star3
-
-& dragonfly
-& dragonfly2 
-
-'dragonfly'
+[Readme learning journal](README.md)

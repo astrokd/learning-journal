@@ -55,3 +55,5 @@ Pg 262
 >It is important to insure that there is enough contrast between any text and the background color (otherwise people will not be able to read your content)
 
 [www.htmlandcssbook.com](www.htmlandcssbook.com)
+
+[Readme learning journal](README.md)
