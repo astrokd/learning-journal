@@ -18,21 +18,46 @@ Wireframes make design easier by letting think about appears on what page before
 - Prioritizing
 - Organizing
 
+It's about communication.
+
 - Visual Hierarchy pg 467
+  > You can use contrast to create a visual hierarchy that gets across your key message and helps users find what they are looking for.
+
     - Size
     - Color
     - Style
-- Group
+    - Images
+
+- Group "Can make it easier to comprehend"
 - Similarity
+    + Proximity
+    + Closure
+    + Continuance
+    + White Space
+    + Color
+    + Borders
+
+#### Designing Navigation pg 471
+> Good navigation tends to follow these principles
+- Concise
+- Clear
+- Selective
+- Context
+- Interactive
+- Consistent
 
 ### Design Nav
 
 *Duckett chapter 1*
 ## Skim Structure
+HTML Describes the structure of pages by using elements sometimes with attributes to provide additional information.
 
 *Duckett chapter 17*
-## Read HTML5 Layout
+## Read HTML5 Layout pg 428
+
+
 
 *Duckett chapter 8*
 ## Extra Markup
 
+For more information and Sample code see [www.htmlandcssbook.com](www.htmlandcssbook.com)
