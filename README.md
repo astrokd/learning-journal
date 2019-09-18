@@ -36,6 +36,9 @@ A fixed mindset would be the opposite of that where you finding difficulty or ma
 
 ## My Journals
 [Readme learning journal](https://astrokd.github.io/learning-journal/)
+
 [https://astrokd.github.io/learning-journal/markdown](https://astrokd.github.io/learning-journal/markdown)
+
 [https://astrokd.github.io/learning-journal/Git_GitHub](https://astrokd.github.io/learning-journal/Git_GitHub)
+
 [https://astrokd.github.io/learning-journal/htmldemo](https://astrokd.github.io/learning-journal/htmldemo)
