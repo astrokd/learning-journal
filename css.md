@@ -17,7 +17,7 @@ Presentation, Very declarative
 >	}
 
 ### CSS Selectors Pg 237
-    + Universal  `* {}`
+    + Universal  `* {}` selects every element
     + Type  `h1, h2, h3 {}`
     + Class `.note {}`
     + ID `#note {}` and target elements with class `p.note {}`
