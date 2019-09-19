@@ -14,10 +14,14 @@ I will add my notes from class here and write a paragraph on growth mindset.
 + publish to the web 
 
 ## My Journals
-1. [Readme learning journal root](README.md)
-2. [Growth Mindset journal](growthmindset.md)
-3. [Markdown journal](markdown.md)
-4. [Git and GitHub intro journal](Git_GitHub.md)
-5. [html demo journal](htmldemo.md)
-6. [CSS journal](css.md)
-7. [JavaScript journal](JavaScript.md)
+[Readme learning journal root](README.md)
+1. [Growth Mindset journal](growthmindset.md)
+2. [Markdown journal](markdown.md)
+3. [Git and GitHub intro journal](Git_GitHub.md)
+4. [html demo journal](htmldemo.md)
+5. [CSS journal](css.md)
+6. [JavaScript journal](JavaScript.md)
+7. [JS Intro journal](JS_Intro.md)
+8. [Logic and Loops journal](logic_loops.md)
+9. [9 journal](journal.md)
+10. [10 journal](journal.md)
