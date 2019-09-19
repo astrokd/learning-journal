@@ -42,9 +42,14 @@ Examples
 
 Declare a Function
   `function sayHello() { document.write('Hello');}`
+
 Calling a Function
   `sayHello();`
+
 Declaring Functions that need information
-  `function getArea`
+  `function getArea(width, height) {return width * height;}`
+
 Calling Functions that need information
-Getting a single value out a function
+  `getArea(3, 5);`
+
+
