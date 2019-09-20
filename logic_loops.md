@@ -20,3 +20,4 @@ Computer are built to help with thinking work.
 *Duckett: JavaScript & jQuery:*
     Decisions & Loops Chap 4 Pg 183
 
+[Readme learning journal](README.md)

@@ -52,4 +52,4 @@ Declaring Functions that need information
 Calling Functions that need information
   `getArea(3, 5);`
 
-
+[Readme learning journal](README.md)
