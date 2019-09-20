@@ -22,7 +22,9 @@ Computer are built to help with thinking work.
 
 Loop types
 - for
+    - this ideal doing a thing a specific number of times
 - while
+    - this is ideal for waiting to conditions are met
 - do while
 
 Proper for loop
