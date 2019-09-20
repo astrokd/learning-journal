@@ -52,4 +52,6 @@ Declaring Functions that need information
 Calling Functions that need information
   `getArea(3, 5);`
 
+Returns inside a function tell function to stop processing
+
 [Readme learning journal](README.md)
