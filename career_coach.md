@@ -20,3 +20,5 @@ Code Fellows tutoring outside of Instructor/TA time
 ## Self-Assess
 
 ## Prepare
+
+[Readme learning journal](README.md)
