@@ -12,8 +12,8 @@ Methods to add CSS
 Presentation, Very declarative 
 ### Syntax 
 > main {
->	background-color: black;
->	width: 500px;
+>	  background-color: black;
+>	  width: 500px;
 >	}
 
 ### CSS Selectors Pg 237
@@ -26,7 +26,7 @@ Presentation, Very declarative
     + Adjacent Sibling
     + General Sibling
 
-CSS Rules Cascade, the ;ater rule takes precedence Pg 239
+CSS Rules Cascade, the later rule takes precedence Pg 239
 
 Exernal CSS files lets all your pages share the same style Pg 241
 
