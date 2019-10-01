@@ -34,3 +34,4 @@ Typical units
 
 ### Font-Style
 
+[Readme learning journal](README.md)

@@ -32,3 +32,4 @@ I will add my notes from class here and write a paragraph on growth mindset.
 - 201
 1. [Lab 01 Getting Up and Running Gist](https://gist.github.com/astrokd/0b2f10303b372f6cd3246c24d2c43c20)
 2. [Read 02 HTML Text CSS Intro and Basic JavaScript](read02.md)
+3. [Class 02 Learning Journal](class2.md)

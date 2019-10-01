@@ -65,6 +65,7 @@ If Statements
 If Else Statements
 
 
+[Readme learning journal](README.md)
 
 
 
