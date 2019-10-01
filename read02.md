@@ -37,7 +37,7 @@ CSS **Rules** are made up of a **selector** that specify the elements the rule a
 
 Datatypes, Number, String, Boolean
 
-Arrays are variables that store more then one piece of information.
+Arrays are variables that store more than one piece of information.
 
 -  array literal technique (preferred)
     ```CSS
