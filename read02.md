@@ -40,12 +40,15 @@ Datatypes, Number, String, Boolean
 Arrays are variables that store more then one piece of information.
 
 -  array literal technique (preferred)
-
-    `var colors;`
-    `colors = ['white', 'black', 'custom'];`
+    ```CSS
+    var colors;
+    colors = ['white', 'black', 'custom'];
+    ```
 
 -  array constructor technique
-    `var colors = new Array('white','black','custom');`
+    ```CSS
+    var colors = new Array('white','black','custom');
+    ```
 
 Expressions evaluate into a single value
 Operators allow expressions to create a single value
@@ -56,7 +59,9 @@ Operators allow expressions to create a single value
 
 - Comparison operators; ==, ===, !=, !==, >, <, >=, ...
 - Logic operators; &&, ||, !
+
 If Statements
+
 If Else Statements
 
 
