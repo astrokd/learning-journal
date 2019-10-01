@@ -19,7 +19,10 @@ Linters standardize code rules in a code editor.  All labs must be free of linte
 
  Typicaly when copying text it is best to copy the raw format on github.
 
+To copy a GitHub project down use;
+ ```Terminal
  git clone https://github.com/astrokd/201Lab2.git
+ ```
 
  [CodePen.io](codepen.io) is a great tool for checking CSS and HTML.
 
