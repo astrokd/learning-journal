@@ -28,10 +28,10 @@ CSS **Rules** are made up of a **selector** that specify the elements the rule a
 
 **Declarations** are made up of **properties** of the element you want to change and the **values** of those properties
 
-    > main {
-    >	  background-color: black;
-    >	  width: 500px;
-    >	}
+    main {
+    	  background-color: black;
+    	  width: 500px;
+    	}
 
 ### JS CH2 Basic JS Instructions
 
@@ -40,10 +40,12 @@ Datatypes, Number, String, Boolean
 Arrays are variables that store more then one piece of information.
 
 -  array literal technique (preferred)
-    `var colors;
-    colors = ['white', 'black', 'custom'];`
+
+    `var colors;`
+    `colors = ['white', 'black', 'custom'];`
+
 -  array constructor technique
-    `var colors = new Array('white','black','custom');
+    `var colors = new Array('white','black','custom');`
 
 Expressions evaluate into a single value
 Operators allow expressions to create a single value
