@@ -6,8 +6,57 @@ Chapter 3: “Lists” (pp.62-73)
 Chapter 13: “Boxes” (pp.300-329)
 
 ### Lists
+```HTML
+    <ol> <!-- Ordered list -->
+        <li>list item</li>
+    </ol>
+    <ul> <!-- Unordered list -->
+        <li>list item</li>
+    </ul>
+    <dl> <!-- Definition list -->
+        <dt>Term</dt>
+        <dd>Definition</dd>
+    </dl>
+```
+List can be nested inside one another.
 
 ### Boxes
+CSS treats each HTML element as if it lives in it's own box
+Box dimensions
+```
+    width: 300px;
+    height: 300px;
+```
+Limiting Width
+```
+    min-width: 450px;
+    max-width: 650px;
+```
+#### Border, Margin, & Padding
+Border: every box has a border, the border separates one border from another
+
+Margin: outside the edge of the border, creates space between adjacent boxes
+
+Padding: space betwwen border and content of box
+```
+border-width
+border-style
+border-color
+border
+padding
+margin
+```
+If you want to center a box on a page to can set left-margin and right-margin to auto.
+The display property allows you display a li elements in a row or line
+```
+display
+```
+visibility lets you hidden elements
+
+border-image lets you use an image as a border
+
+border-radius lets you round box corner
+border corners can have elliptical shapes
 
 ## From the Duckett JS book:
 
