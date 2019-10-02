@@ -31,5 +31,13 @@ Falsy values are things like;
  ```
 
 
+ Strict equality operators (=== and !==)result in fewer unexpected values than the non strict ones (== and !=) 
+
+Short Circuit Values
+
+
+### Loops
+
+
 
 
