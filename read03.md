@@ -10,7 +10,18 @@ Chapter 13: “Boxes” (pp.300-329)
 Chapter 4: “Decisions and Loops” from switch statements on (pp.162-182)
 
 ### Switch Statements
-Switch statements live in one code block inside curly brackets.  Switch statements have a defaulkt value if none of the statements evauate as true.
+Switch statements live in one code block inside curly brackets.  Switch statements have a default value if none of the statements evauate as true.
+``` Javascript
+    switch (level) {
+        case 'One':
+        title = 'L1';
+        break;
+        case 'Two':
+        title = 'L2';
+        break;
+    }
+```
+
 
 IF...ELSE vs SWITCH
 Switch statements have a break so once a condition is meet they leave the statment providing better performance, IF ELSE each statement is checked no matter what.
@@ -68,3 +79,4 @@ Like while but will always run statement inside curly braces atleast once even i
         i++;
     } while (i < 1);
 ```
+[Readme learning journal](README.md)
