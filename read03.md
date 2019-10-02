@@ -5,6 +5,10 @@
 Chapter 3: “Lists” (pp.62-73)
 Chapter 13: “Boxes” (pp.300-329)
 
+### Lists
+
+### Boxes
+
 ## From the Duckett JS book:
 
 Chapter 4: “Decisions and Loops” from switch statements on (pp.162-182)
@@ -52,7 +56,7 @@ Loops check a condition, if it returns true the code block is run then the condi
 
 #### For
 Uses a counter as a condition each time the code block in the for loop is run the counter is updated.
-```javascript
+```Javascript
     var i;
     for (i = 0;i < 10; i++) {
         //Code goes here
@@ -62,7 +66,7 @@ For loops are often used to loop through items in an array.
 
 #### While
 If you do not know how many times the code should run you can use a while loop.
-```javascript
+```Javascript
     var i = 0;
     while (i < 10) {
         //Code goes here
@@ -72,7 +76,7 @@ If you do not know how many times the code should run you can use a while loop.
 
 #### Do While
 Like while but will always run statement inside curly braces atleast once even if condition is false.
-```javascript
+```Javascript
     var i = 0;
     do {
         //Code goes here
