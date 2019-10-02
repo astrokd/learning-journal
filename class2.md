@@ -16,7 +16,7 @@ Linters standardize code rules in a code editor.  All labs must be free of linte
 
 ## Learn shortcuts
 **VSCode**
-- `command /`  comments out a line
+- `Command /`  comments out a line
 - `Shift Tab`  untab a line
 **Terminal**
 - `cp <source> <destination>`  Copy 
