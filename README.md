@@ -35,4 +35,5 @@ I will add my notes from class here and write a paragraph on growth mindset.
 3. [Class 02 Learning Journal](class2.md)
 4. [Read 03: HTML Lists, CSS Boxes, JS Control Flow](read03.md)
 5. [Class 03 Learning Journal](class03.md)
+6. [Read 04 HTML Links, CSS Layout, JS Functions] (read04.md)
 
