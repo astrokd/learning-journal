@@ -30,6 +30,7 @@ arrayvar.length
 length is a property of a the array data structure
 
 ## Loops
+the `break;` command can exit you from a loop without having to reach the end condition.
 
 ### For loop
 declare starting condition, end condition, increment
@@ -37,9 +38,9 @@ for (var i = 0; i < 3; i++) {
     //code goes here
 }
 
-In general there are programmatic way of doing things and a mathy way of doing things.
+In general there are programmatic way of doing things and a mathy way of doing things in loops.
 
-### While
+### While loop
 
 
 [Readme learning journal](README.md)
