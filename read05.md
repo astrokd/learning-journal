@@ -15,13 +15,13 @@ From the Duckett HTML book:
 
 the `<img>` element is a Inline element, it does not start a new line and any text that shares a block element with will flow around it.
 
--Transparency-
+#### Transparency
 
 Either a Transparent GIF or PNG
 
-HTML5: Figure and Figure Caption
-`<figure>`
-`<figcaption>`
+#### HTML5: Figure and Figure Caption
+- `<figure>`
+- `<figcaption>`
 
 Chapter 11: “Color” (pp.246-263)
 Color can be specified in these different ways:
