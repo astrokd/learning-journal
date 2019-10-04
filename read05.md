@@ -67,3 +67,5 @@ Space       [~=]
 Prefix      [^=]
 Substring   [*=]
 Suffix      [$=]
+
+[Readme learning journal](README.md)
