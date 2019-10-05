@@ -67,11 +67,11 @@ The typeface you specify needs to available to the people
 - `:focus`      : when tabing
 
 #### Attributes Selectors pg292
-Existence   []
-Equality    [=]
-Space       [~=]
-Prefix      [^=]
-Substring   [*=]
-Suffix      [$=]
+- Existence   []
+- Equality    [=]
+- Space       [~=]
+- Prefix      [^=]
+- Substring   [*=]
+- Suffix      [$=]
 
 [Readme learning journal](README.md)
