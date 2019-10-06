@@ -39,4 +39,5 @@ I will add my notes from class here and write a paragraph on growth mindset.
 7. [Class 04](class04.md)
 8. [Read 05 Images, Color, Text](read05.md)
 9. [Class 05](class05.md)
+10. [Read 06 JS Object Literals; The DOM](read06.md)
 
