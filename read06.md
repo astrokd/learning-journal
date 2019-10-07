@@ -16,8 +16,8 @@ The Ways of Creating an Object
 - Literal Notation
     -   Creating
         - var objectName = { list properties, declare functions/methods }
-    -   accessing
-        - objectname.<method or property>
+    -   Accessing
+        - objectname.method-or-property
 - Constructor Notation
 
 - Chapter 5: “Document Object Model” (pp.183-242)
