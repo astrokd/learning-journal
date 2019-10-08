@@ -31,3 +31,13 @@ The contectual This
 Template Literials
 instead of 'test ' + array[i];
 use back tick ``test ${array[i]}``
+
+### Git Branching steps
+1. `git checkout -b (branchName)`
+2. Code branch changes
+3. ACP
+    1. `git push origin (branchName)`
+4. Merge branch into master on GitHub
+5. Switch to master locally, `git checkout master`
+6. `Git pull origin master` to get the changes from merge locally on master
+7. repeat for a new set of changes
