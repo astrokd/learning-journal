@@ -51,4 +51,14 @@ var hotel = {
     booked: 25
 };
 ```
+Object Constructor Notation
+```Javascript
+function Hotel(name, rooms, booked) {
+    this.name = name;
+    this.rooms = rooms;
+    this.booked = booked;
+}
+var quayHotel = new Hotel('Quay', 40, 25);
+var parkHotel = new Hotel('Park', 120, 77);
+```
 
