@@ -42,4 +42,6 @@ I will add my notes from class here and write a paragraph on growth mindset.
 10. [Read 06 JS Object Literals; The DOM](read06.md)
 11. [class 06](class06.md)
 12. [Read 07](read07.md)
+13. [Class 07](class07.md)
+14. [Read 08](read08.md)
 
