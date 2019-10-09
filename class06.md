@@ -41,3 +41,5 @@ use back tick ``test ${array[i]}``
 5. Switch to master locally, `git checkout master`
 6. `Git pull origin master` to get the changes from merge locally on master
 7. repeat for a new set of changes
+
+[Readme learning journal root](README.md)

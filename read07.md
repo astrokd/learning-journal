@@ -62,3 +62,4 @@ var quayHotel = new Hotel('Quay', 40, 25);
 var parkHotel = new Hotel('Park', 120, 77);
 ```
 
+[Readme learning journal root](README.md)

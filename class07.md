@@ -28,3 +28,5 @@ each row in it's own function
 
 
 For Lab 07 create 3 functions
+
+[Readme learning journal root](README.md)

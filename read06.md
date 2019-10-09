@@ -51,3 +51,4 @@ Once you select an element with a dom query you can edit its properties, or perf
 
 You can loop through nodelists to perform actions
 
+[Readme learning journal root](README.md)

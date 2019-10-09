@@ -70,3 +70,4 @@ How event trigger JS code:
 - indicate event on seleceted nodes will trigger response (called binding)
 - State Code to run when event occurs
 
+[Readme learning journal root](README.md)
