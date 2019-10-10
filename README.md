@@ -44,4 +44,7 @@ I will add my notes from class here and write a paragraph on growth mindset.
 12. [Read 07](read07.md)
 13. [Class 07](class07.md)
 14. [Read 08](read08.md)
+15. [Class 08](class08.md)
+16. [Read 09 CSS](read09.md)
+
 
