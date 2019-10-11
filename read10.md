@@ -15,14 +15,14 @@ Variables have scope
 ### Execution Context & Hoisting
 There are 2 phases of activity, preparation and execution.  Hoisting is functions and variables can be called or referenced before they are declared
 
-**OBJECT**           **DESCRIPTION**
-Error                Generic error - the other errors are all based upon this error
-SyntaxError          Syntax has not been followed
-ReferenceError       Tried to reference a variable that is not declared/within scope
-TypeError            An unexpected data type that cannot be coerced
-RangeError           Numbers not in acceptable range
-URIError             encodeURI ().decodeURI(),and similar methods used incorrectly
-EvalError            eval() function used incorrectly
+|**OBJECT**           |**DESCRIPTION**|
+|---------------------|:-------------------------------------------------------------:|
+|SyntaxError          |Syntax has not been followed|
+|ReferenceError       |Tried to reference a variable that is not declared/within scope|
+|TypeError            |An unexpected data type that cannot be coerced|
+|RangeError           |Numbers not in acceptable range|
+|URIError             |encodeURI ().decodeURI(),and similar methods used incorrectly|
+|EvalError            |eval() function used incorrectly|
 
 The statements `try`, `catch`, `throw`, and `finally` are for error handling and can help gracefully handle errors.
 
