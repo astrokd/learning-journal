@@ -41,7 +41,7 @@ best practice /required in forms
 
 everything is an object in javascript
 JS is weakly typed language
-
+```html
 <form is="user-form">
 <fieldset> 
     <label></label>
@@ -49,6 +49,7 @@ JS is weakly typed language
     <label>
     <input>
 </fieldset>
+```
 Event handlers
 
 ```Javascript
@@ -59,6 +60,5 @@ function handleSubmit(event) {
     event.preventDefault();
     console.log('hello from handleSubmit');
 };
-
-
 ```
+[Readme learning journal root](README.md)
