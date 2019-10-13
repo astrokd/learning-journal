@@ -1,7 +1,6 @@
 ### Shortcut
-fn arrow left or right
-option arrow left or right
-
+- fn arrow left or right
+- option arrow left or right
 
 DRY principal => Don't Repeat Yourself
 
@@ -37,11 +36,12 @@ CookieShop.prototype.generateHourlyCookie = function() {
 var trEl = document.createElement('tr');
 ```
 Forms
-best practice /required in forms
+*best practice /required in forms*
 
-everything is an object in javascript
+everything is an object in javascript, 
 JS is weakly typed language
-```html
+
+```HTML
 <form is="user-form">
 <fieldset> 
     <label></label>
