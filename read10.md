@@ -31,7 +31,7 @@ The statements `try`, `catch`, `throw`, and `finally` are for error handling and
 Where is the problem
 What exactly is the problem
 
-
+[Readme learning journal root](README.md)
  
 
 
