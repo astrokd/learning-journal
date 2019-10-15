@@ -18,3 +18,16 @@ Read the following articles on the Canvas API.
 
 The `<canvas>` Element creates a fixed drawing surface.  You can draw rectangles and paths on the canvas, apply styles and colors, and draw text.
 
+**Script to draw a rectangle on a canvas element**
+```Javascript
+function draw() {
+  var canvas = document.getElementById('canvas');
+  if (canvas.getContext) {
+    var ctx = canvas.getContext('2d');
+
+    ctx.fillRect(25, 25, 100, 100);
+    ctx.clearRect(45, 45, 60, 60);
+    ctx.strokeRect(50, 50, 50, 50);
+  }
+}
+```
