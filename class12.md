@@ -22,3 +22,8 @@ or
 ```
 
 In the ChartJS script options object 
+
+add variable to object rather then global var
+
+const can not be changed
+let only exist inside code block function or loop
