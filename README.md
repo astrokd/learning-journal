@@ -1,6 +1,8 @@
 # Kevin Dreyer's codefellows Learning Journal
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/An_Teallach_panorama.jpg/2880px-An_Teallach_panorama.jpg)
 
+[See my wiki](https://github.com/astrokd/learning-journal/wiki)
+
 Hi, I was previously a **IT Technical Support professional**, I've been in Technical Support and Software Testing for a software company, and I went to engineering school before that, also did some other programming related night school classes.  I've been interested in learning more about coding for some time and have been learning on my own using TreeHouse.com, Lynda.com, and others.  I recently decided that I needed to step-up my training experience and be in group learning environment.
 
 * [My Github](https://github.com/astrokd)
